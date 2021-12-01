@@ -30,7 +30,6 @@ Instruções:
 
 
 
-
 4 - Dentro da pasta "BackEnd" para rodar o servidor da API utilize o comando: 
 
 	npm run dev
@@ -46,3 +45,4 @@ Instruções:
 	
 	npm start
 
+OBS: Gostaria de informar que o front-end desenvolvido nesse projeto foi com base no desenvolvido no semestre passado com o Professor Fausto onde o mesmo nos ensinou a consumir componentes prontos do Material-ui, por isso a semelhança, pois utilizei os mesmos componentes que ele nos ensinou.
